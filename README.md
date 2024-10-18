@@ -1,6 +1,6 @@
 # Bakery-System
 
-user authentication
-customer options
-admin options
-bill genaration
+user authentication<br>
+customer options<br>
+admin options<br>
+bill genaration<br>
