@@ -1,0 +1,5 @@
+Sourdough bread/3.00
+Rye bread/4.00
+Whole weat bread/5.00
+French bread/2.00
+Olive bread/4.00

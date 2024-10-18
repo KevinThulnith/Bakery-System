@@ -1,0 +1,8 @@
+Milk/0.20
+Chocolate Milk/0.30
+Coffee/0.10
+Tea/0.10
+Green tea/0.15
+Lemonade/0.20
+Milkshake/0.10
+Soda/0.20

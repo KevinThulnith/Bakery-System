@@ -1,0 +1,6 @@
+Apple pie/4.00
+Chocolate Moose/4.00
+Fruit tart/5.00
+Brownie/8.00
+Ice cream/9.00
+Fruit salad/10.00
